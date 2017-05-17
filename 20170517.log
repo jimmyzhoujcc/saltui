@@ -1,0 +1,4 @@
+2017-05-17 08:09:25,543 - INFO - saltrun - 客户端IP:192.168.1.5针对于Target Format为List,Target机器为node执行函数cmd.run命令参数为ifconfig.
+2017-05-17 08:09:36,623 - INFO - saltrun - 客户端IP:192.168.1.5针对于Target Format为List,Target机器为node执行函数cmd.run命令参数为ls.
+2017-05-17 08:09:48,944 - INFO - saltrun - 客户端IP:192.168.1.5针对于Target Format为List,Target机器为node执行函数test.ping命令参数为.
+2017-05-17 08:10:02,776 - INFO - saltrun - 客户端IP:192.168.1.5针对于Target Format为List,Target机器为node执行函数cmd.run命令参数为pwd.
